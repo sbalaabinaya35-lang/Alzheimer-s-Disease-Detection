@@ -76,6 +76,6 @@ The proposed model achieved strong classification performance with high accuracy
 1. git clone https://github.com/your-username/Alzheimer-s-Disease-Detection.git
 2. Install required libraries:
 3. pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python jupyter
-4. -Launch Jupyter Notebook:
-5. jupyter notebook
+4. Launch Jupyter Notebook:
+5. Jupyter notebook
 6. Open the notebook file and run all cells.
