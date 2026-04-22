@@ -24,7 +24,7 @@ The dataset is divided into training and testing sets for model development and 
 
 ##  Model / Methodology
 
-This project uses a Cross-Attentional CNN-Transformer Fusion Network for accurate classification of MRI images.
+This project uses a Cross-Attentional CNN-Transformer Fusion Network (CAC-TFNet) for accurate classification of MRI images.
 
 The model combines:
 
@@ -73,9 +73,9 @@ The proposed model achieved strong classification performance with high accuracy
 
 ##  How to Run
 
--git clone https://github.com/your-username/Alzheimer-s-Disease-Detection.git
--Install required libraries:
--pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python jupyter
--Launch Jupyter Notebook:
--jupyter notebook
--Open the notebook file and run all cells.
+1. git clone https://github.com/your-username/Alzheimer-s-Disease-Detection.git
+2. Install required libraries:
+3. pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python jupyter
+4. -Launch Jupyter Notebook:
+5. jupyter notebook
+6. Open the notebook file and run all cells.
