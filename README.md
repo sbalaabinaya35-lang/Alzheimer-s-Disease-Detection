@@ -7,7 +7,7 @@ Alzheimer’s disease is a progressive neurological disorder that affects memory
 
 The objective of this project is to develop a deep learning-based system to automatically detect and classify different stages of Alzheimer’s disease from MRI brain scan images.
 
----
+
 
 ##  Dataset
 
@@ -20,7 +20,7 @@ The dataset consists of MRI brain images categorized into the following classes:
 
 The dataset is divided into training and testing sets for model development and evaluation.
 
----
+
 
 ##  Model / Methodology
 
@@ -41,7 +41,7 @@ Workflow:
 4. Classification into Alzheimer’s stages  
 5. Performance evaluation using metrics and graphs  
 
----
+
 
 ##  Results
 
@@ -56,7 +56,7 @@ Workflow:
 
 The proposed model achieved strong classification performance with high accuracy and reliable predictions across all classes.
 
----
+
 
 ##  Technologies Used
 
@@ -69,7 +69,7 @@ The proposed model achieved strong classification performance with high accuracy
 - OpenCV  
 - Jupyter Notebook  
 
----
+
 
 ##  How to Run
 
